@@ -5,6 +5,8 @@ I am an IT Professional with 12+ years’ experience in software development, wi
 
 I’m currently specializing on NextJS and React projects. 
 
+Do have a look around my projects! :)
+
 ## Technology expertise
 
     *      Frontend: NextJS, React, HTML5, CSS, JavaScript, Typescript, REST API, GraphQL Client, Redux
