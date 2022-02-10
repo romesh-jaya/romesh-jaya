@@ -12,4 +12,5 @@ Do have a look around my projects! :)
     *      Frontend: NextJS, React, Vue, HTML5, CSS, JavaScript, Typescript, REST API, GraphQL Client, Redux
     *      Frontend testing: Jest, Enzyme, Jasmine, Cypress
     *      Backend: Express.js, Node.js, PL/SQL, Mongo DB, Firebase, Postgres, Netlify and Firebase functions
+    *      Headless CMS: Strapi, Sanity, GraphCMS
     *      Other: Github, Gitlab, JIRA, Docker, Firebase Auth, Auth0
