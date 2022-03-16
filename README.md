@@ -9,7 +9,7 @@ Do have a look around my projects! :)
 
 ## Technology expertise
 
-    *      Frontend: NextJS, React, Vue, HTML5, CSS, JavaScript, Typescript, REST API, GraphQL Client, Redux
+    *      Frontend: NextJS, React, Vue, HTML5, CSS, Tailwind CSS, JavaScript, Typescript, REST API, GraphQL Client, Redux
     *      Frontend testing: Jest, Enzyme, Jasmine, Cypress
     *      Backend: Express.js, Node.js, PL/SQL, Mongo DB, Firebase, Postgres, Netlify and Firebase functions
     *      Headless CMS: Strapi, Sanity, GraphCMS
