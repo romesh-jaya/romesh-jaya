@@ -13,4 +13,4 @@ Do have a look around my projects! :)
     *      Frontend testing: Jest, Enzyme, Jasmine, Cypress
     *      Backend: Express.js, Node.js, PL/SQL, Mongo DB, Firebase, Postgres, Netlify and Firebase functions
     *      Headless CMS: Strapi, Sanity, GraphCMS
-    *      Other: Github, Gitlab, JIRA, Docker, Firebase Auth, Auth0
+    *      Other: Github, Gitlab, JIRA, Docker, Firebase Auth, Auth0, Stripe and Paypal integrations
