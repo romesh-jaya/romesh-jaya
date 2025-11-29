@@ -14,7 +14,7 @@ Tech stack:  **React, Auth0 Authentication, Nodejs, MongoDB**
 
 Movie Shop is an app that can be used for managing a movie library in a DVD rental store. The app allows potential customers to login and browse the available titles. Admin functionality also present.
 
-<div align="center">
+<div align="center" style="margin-bottom: 15px;">
   <img width="902" height="894" alt="Movie Search" src="https://github.com/user-attachments/assets/948a67e6-7038-4393-b047-77dcae91eafb" style="object-fit: contain;"  />
 </div>
 
