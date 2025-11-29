@@ -14,9 +14,11 @@ Tech stack:  **React, Auth0 Authentication, Nodejs, MongoDB**
 
 Movie Shop is an app that can be used for managing a movie library in a DVD rental store. The app allows potential customers to login and browse the available titles. Admin functionality also present.
 
-<div align="center" style="margin-bottom: 15px;">
+<div align="center">
   <img width="902" height="894" alt="Movie Search" src="https://github.com/user-attachments/assets/948a67e6-7038-4393-b047-77dcae91eafb" style="object-fit: contain;"  />
 </div>
+<br>
+<br>
 
 **[EasyQuiz Frontend](https://github.com/romesh-jaya/easyquiz-quasar)**
 
@@ -27,6 +29,8 @@ EasyQuiz is an application to create and share your Quizzes with others. Ideal f
 <div align="center">
   <img src="https://user-images.githubusercontent.com/56665179/209946384-10472862-5715-4a1d-8a3b-385e8e2435e3.png" height="400" alt="Quiz Home page" style="object-fit: contain;" >
 </div>
+<br>
+<br>
 
 **[EasyQuiz Backend](https://github.com/romesh-jaya/easyquiz-backend-nodejs)**
 
@@ -43,6 +47,8 @@ This application is meant to be used in a self-service kiosk at a fast food rest
 <div align="center">
   <img src="https://user-images.githubusercontent.com/56665179/153539949-254642ce-3b0a-45fe-9a2a-37db4502951d.png" height="400" alt="Item Quantity Selection" style="object-fit: contain;" >
 </div>
+<br>
+<br>
 
 **[Sinhala spelling](https://github.com/romesh-jaya/sinhala-spelling)**
 
