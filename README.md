@@ -14,11 +14,21 @@ Tech stack:  **React, Auth0 Authentication, Nodejs, MongoDB**
 
 Movie Shop is an app that can be used for managing a movie library in a DVD rental store. The app allows potential customers to login and browse the available titles. Admin functionality also present.
 
-**[EasyQuiz](https://github.com/romesh-jaya/easyquiz-quasar)**
+**[EasyQuiz Frontend](https://github.com/romesh-jaya/easyquiz-quasar)**
 
 Tech Stack: **Vue****js****, Serverless Functions hosted on Vercel, Postgres, Firebase Authentication**
 
 EasyQuiz is an application to create and share your Quizzes with others. Ideal for a school or educational institute.
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/56665179/209946384-10472862-5715-4a1d-8a3b-385e8e2435e3.png" height="400" alt="Quiz Home page" style="object-fit: contain;" >
+</div>
+
+**[EasyQuiz Backend](https://github.com/romesh-jaya/easyquiz-backend-nodejs)**
+
+Tech Stack: **Serverless Functions hosted on Vercel, Postgres, Firebase Authentication**
+
+Clean architecture is implemented for this Backend (NodeJS).
 
  **[Self-service checkout app](https://github.com/romesh-jaya/mcarthurs-vue)**
  
